@@ -2,7 +2,7 @@
 
 # Created by: Joanne Santhosh
 # Created on: Oct 2022
-# This program identifies which quadrant the coordinate is in
+# This program identifies if a number is even or odd
 
 import math
 
